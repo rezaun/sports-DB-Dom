@@ -33,10 +33,8 @@ const showPlayDetails = (players) => {
         </div>        
     </div>    
     `;
-    container.appendChild(div);
-  
+    container.appendChild(div);  
     }
-
 }
 
 
